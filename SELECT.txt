@@ -1,6 +1,6 @@
 SELECT *
 FROM table
-WHERE
+WHERE cluase
 GROUP BY
-HAVING
+HAVING (this is a where clause for group by)
 ORDER BY

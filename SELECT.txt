@@ -4,4 +4,8 @@ WHERE cluase
 GROUP BY
 HAVING (this is a where clause for group by)
 ORDER BY
+<<<<<<< HEAD
 reza branch
+=======
+Parham Branch
+>>>>>>> origin/parham

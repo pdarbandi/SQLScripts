@@ -1,5 +1,5 @@
 SELECT *
-FROM table
+FROM table 2
 WHERE cluase
 GROUP BY
 HAVING (this is a where clause for group by)
